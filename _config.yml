@@ -1,0 +1,28 @@
+name: amalmierca
+favicon: null
+layout_spectrum: 0.34249644237570465
+typography_spectrum: 0.2333002791274339
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.342244490981102
+  lightness: 0.6402052429039031
+  saturation: 0.859657826833427
+  rhythmicContrast: 0.6594579694792628
+purpose: []
