@@ -1,6 +1,6 @@
 name: amalmierca
 favicon: null
-layout_spectrum: 0.23843
+layout_spectrum: 0.49721
 typography_spectrum: 0.2333002791274339
 title: Página de Alvaro Malmierca
 cta:
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.342244490981102
-  lightness: 0.6402052429039031
-  saturation: 0.859657826833427
-  rhythmicContrast: 0.6594579694792628
+  brandStrength: 0.625
+  lightness: 0.3125
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
